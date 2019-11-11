@@ -1,2 +1,0 @@
-# CPSC1021
-Notes
